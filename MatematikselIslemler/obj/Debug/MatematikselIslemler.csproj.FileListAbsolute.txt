@@ -1,0 +1,8 @@
+C:\Users\Furkan\source\repos\MatematikselIslemler\MatematikselIslemler\obj\Debug\MatematikselIslemler.csproj.AssemblyReference.cache
+C:\Users\Furkan\source\repos\MatematikselIslemler\MatematikselIslemler\obj\Debug\MatematikselIslemler.csproj.SuggestedBindingRedirects.cache
+C:\Users\Furkan\source\repos\MatematikselIslemler\MatematikselIslemler\obj\Debug\MatematikselIslemler.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\MatematikselIslemler\MatematikselIslemler\bin\Debug\MatematikselIslemler.exe.config
+C:\Users\Furkan\source\repos\MatematikselIslemler\MatematikselIslemler\bin\Debug\MatematikselIslemler.exe
+C:\Users\Furkan\source\repos\MatematikselIslemler\MatematikselIslemler\bin\Debug\MatematikselIslemler.pdb
+C:\Users\Furkan\source\repos\MatematikselIslemler\MatematikselIslemler\obj\Debug\MatematikselIslemler.exe
+C:\Users\Furkan\source\repos\MatematikselIslemler\MatematikselIslemler\obj\Debug\MatematikselIslemler.pdb
